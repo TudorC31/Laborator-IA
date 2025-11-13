@@ -1,0 +1,67 @@
+h1 {
+	color:  green;
+}
+
+.text-center{ 
+	text-align: center;
+}
+
+#rounded-img{
+	border-radius: 50px;
+}
+
+table {
+	border: 2px solid blue;
+	border-collapse: collapse;
+	background-color: pink;
+}
+
+th, td{
+	border: 1px solid blue;
+	color: blue;
+}
+
+.text1{
+	color: lightgreen;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Arial;
+	text-align: right;
+}
+
+.text2{
+	color: blue;
+	fonst-size: 30px;
+	text-align: left;
+	font-weight: bold;
+}
+
+.text3{
+	color: red;
+	font-style: italic;
+	text-align: center;
+	font-size: 12px;
+}
+
+.text4{
+	color: white;
+	background-color: black;
+	text-transform: uppercase;
+	font-size: 22px;
+	letter-spacing: 2px;
+	padding: 8px;
+}
+
+body{
+	background-color: lightgray;
+}
+
+ul.lista-personalizata{
+	background-color: #f0f8ff;
+	border: 2px solid blue;
+	border-radius: 10px;
+	width: 250px;
+	padding: 15px;
+	list-style-type: square;
+	font-family: Arial;
+}
